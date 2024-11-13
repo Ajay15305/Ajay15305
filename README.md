@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajau!
+- 👋 Hi, I’m Ajay!
 - 👀 I’m interested in rubber duckies 🦆
 - 🌱 I’m currently learning how to make a discord bot! 🤖
 - 💞️ I’m looking to collaborate on this hackathon :)
